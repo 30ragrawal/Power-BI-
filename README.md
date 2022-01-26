@@ -1,2 +1,2 @@
 # Power-BI-
-My Power BI Personal Projects Repository along with dataset used
+My Power BI Personal Projects Repository along with pdf of how the final Report looks and dataset used.
